@@ -16,3 +16,6 @@
 | 14  | [Antaris 2024](https://festiware.app/antaris/register/Antaris2024-vendor)|            |        |                                                        |
 | 15  | [Ruigoord](https://ruigoord.nl/)                                         |            |        |                                                        |
 | 16  |    [Transition](https://transitionfestival.org/en/festival-info)            | 5-12 May|        |    market@transitionfestival.org                                                    |
+| 17 | [Psychedelic](https://www.psyexperience-festival.com/shops/)              | 29-May/01-Jun|   | https://www.psyexperience-festival.com/shops/ |
+| 18 | [Earth Garden](https://www.earthgarden.com.mt/about/)                     | 6-8 Jun      |    | reach out by mail soon.
+| 19 | [Ikarus](https://www.ikarus-festival.de/partner/)                         | 6-9 Jun      |    | reach out soon.
