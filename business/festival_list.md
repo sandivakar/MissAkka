@@ -1,5 +1,5 @@
-| No. | Festival | Date | Status | 
-| ___ | ____________ | __________ | _______ |
+| No. | Festival | Date | Status | Application Status |
+| ___ | ____________ | __________ | _______ |___________|
 | 1   | https://festiware.app/antaris/register/Antaris2024-vendor | | |
 | 2   | https://space-safari.com/participate/ | | |
 | 3   | https://ruigoord.nl/ | | |
@@ -15,3 +15,4 @@
 | 13  | https://www.ownspiritfestival.org/ | |
 | 14  | https://www.burning-mountain.ch/ | |
 | 15  | https://www.universoparalello.org/ | | 
+| 16  | https://www.waldfrieden.net/ | 1-May-2025 | N.A | Jan-2025 , https://www.waldfrieden.net/en/infos/application/ |
