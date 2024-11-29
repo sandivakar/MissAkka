@@ -16,6 +16,7 @@
    - LinkedIn
    - Anymore ??
 4. Get the logo in png format  or any other lossless format. To be used across the  portfolio
+5. Decide on Collection 
 
 **KVK Preparation**
 1. List out what is needed and complete the ask
